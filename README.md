@@ -15,5 +15,5 @@ Select the file to be uploaded <br>
 Click on Submit <br>
 If the credentials are correct, the file will be sent to the server. Else, it will show "Wrong credentials". <br> 
 
-##Screenshot
+## Screenshot<br>
 ![image](https://github.com/mehulbansal/FTP-SERVER/assets/83242719/6bef2cbe-8537-4fd5-9a1a-4f1b9afc4084)
